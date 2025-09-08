@@ -1,28 +1,27 @@
 # CryptoTracker 📈
 
-A **cross-platform** cryptocurrency tracking application built with **React Native** and **Expo**. Available as both a **native mobile app** (iOS/Android) and **web application**. Track real-time cryptocurrency prices, view detailed market data, and manage your favorite coins with a beautiful, responsive interface.
+A **native mobile** cryptocurrency tracking application built with **React Native** and **Expo**. Track real-time cryptocurrency prices, view detailed market data, and manage your favorite coins with a beautiful, responsive interface optimized for mobile devices.
 
-## 🌐 Live Demo & Platforms
+## 📱 Mobile Platforms
 
-- **📱 Mobile App**: Scan QR code with Expo Go or download from app stores
-- **🌐 Web App**: [Live Demo on Vercel](https://crypto-tracker-xyz.vercel.app) *(Replace with your actual URL)*
 - **📱 iOS**: Compatible with iPhone and iPad
 - **🤖 Android**: Compatible with all Android devices
-- **💻 Desktop**: Responsive web version for desktop browsers
+- **🔗 Expo Go**: Scan QR code for instant testing
+- **📦 App Stores**: Ready for iOS App Store and Google Play deployment
 
-### 📸 Platform Screenshots
+### 📸 Mobile Screenshots
 
-| Mobile (iOS/Android) | Web Browser | Tablet |
-|---------------------|-------------|---------|
-| *Add mobile screenshots* | *Add web screenshots* | *Add tablet screenshots* |
+| iPhone | Android | iPad |
+|--------|---------|------|
+| *Add iPhone screenshots* | *Add Android screenshots* | *Add iPad screenshots* |
 
 ## 🎯 Portfolio Highlights
 
-### Cross-Platform Development
-- **Single Codebase**: One React Native codebase serving mobile and web
-- **Native Performance**: True native mobile experience with 60fps animations
-- **Web Compatibility**: Seamless web experience using react-native-web
-- **Responsive Design**: Adaptive UI for phones, tablets, and desktops
+### Native Mobile Development
+- **React Native**: True native performance with 60fps animations
+- **Cross-Platform**: Single codebase for iOS and Android
+- **Native Features**: Touch gestures, haptic feedback, and platform-specific UI
+- **Mobile-Optimized**: Designed specifically for mobile user experience
 
 ### Mobile-First Features
 - **Touch Gestures**: Native swipe, pull-to-refresh, and haptic feedback
